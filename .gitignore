@@ -1,0 +1,10 @@
+/config/*
+!/config/template
+/node_modules
+/package-lock.json
+/log
+/doc/private
+test*.*
+/tools
+/data/bot
+/data/resource/ffmpeg/*
